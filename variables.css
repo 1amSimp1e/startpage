@@ -24,7 +24,7 @@
   --color-palette-orange: #FFBB7C;
   
   /** general */
-  --font-family: Mononoki;
+  --font-family: mononoki;
   --src: url('./fonts/mononoki-Regular Nerd Font Complete.ttf'); /*URL to font*/
   --display-image: block;
 
