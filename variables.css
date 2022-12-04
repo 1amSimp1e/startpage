@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap" rel="stylesheet'); 
+
 :root {
   /** colors */
   --color-name: custom;
@@ -24,7 +26,7 @@
   --color-palette-orange: #FFBB7C;
   
   /** general */
-  --font-family: Monoki;
+  --font-family: Roboto Mono;
   --display-image: block;
 
   /** surface */
