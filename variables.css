@@ -12,9 +12,9 @@
   --color-primary-bg: #516790;
   --color-primary-base: #D8DEE9;
   --color-primary-fg: #FFFFFF;
-  --color-secondary-bg: #142A3B;
-  --color-secondary-base: #285477;
-  --color-secondary-fg: #3C7EB3;
+  --color-secondary-bg: #1E2642;
+  --color-secondary-base: #3B4C83;
+  --color-secondary-fg: #6478B9;
   --color-palette-red: #E06C75;
   --color-palette-green: #98C379;
   --color-palette-yellow: #E5C07B;
@@ -24,12 +24,12 @@
   --color-palette-orange: #FFBB7C;
   
   /** general */
-  --font-family: Roboto Mono;
+  --font-family: Fredoka;
   --display-image: block;
 
   /** surface */
-  --surface-maxWidth: 1290px;
-  --surface-shadow: 8px 8px 8px rgb(81, 103, 144), 16px 16px 8px rgb(20, 42, 59);
+  --surface-maxWidth: 1260px;
+  --surface-shadow: 5px 5px 11px rgb(81, 103, 144), 10px 10px 11px rgb(30, 38, 66);
   --surface-borderRadius: 18px;
 
   /** spacing */
