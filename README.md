@@ -2,4 +2,4 @@
 
 ### Here's mine customization, hope you like it!
 
-![](https://github.com/iamverysimp1e/startpage/blob/main/Screenshots/1.png)
+![](https://github.com/iamverysimp1e/startpage/blob/main/Screenshots/image1.png)
