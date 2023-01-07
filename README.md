@@ -1,5 +1,7 @@
-## My custom start page 📟 which based on [Yet another generic start page](https://github.com/PrettyCoffee/yet-another-generic-startpage)
+## Hi guys, Nothing here but my customizable startpage
+### Here's some screenshots, Hope you like it 
 
-### Here's mine customization, hope you like it!
+![]()
 
-![](https://github.com/iamverysimp1e/startpage/blob/main/Screenshots/image1.png)
+## Credits: 
+- Thanks to [aesthetic-startpage](https://github.com/Nainish-Rai/Aesthetic-Startpage)
