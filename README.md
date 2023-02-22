@@ -1,3 +1,1 @@
-## This is Alpine Startpage:
-
-![]
+## There's nothing here but startpage
