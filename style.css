@@ -16,7 +16,7 @@ html {
   justify-content: center;
 }
 body {
-  background-color: #11131C;
+  background-color: #1A1B23;
   font-family: "Source Code Pro", monospace;
   font-size: 10px;
   display: flex;
@@ -35,7 +35,7 @@ body {
 .maincard {
   display: flex;
   flex-direction: column;
-  background-color: #11131C;
+  background-color: #1A1B23;
   margin-top: 10%;
   height: 800px;
   width: 700px;
@@ -80,7 +80,7 @@ section {
   color: aliceblue;
   font-size: 20px;
   font-weight: 100;
-  border-color: #11131C;
+  border-color: #1A1B23;
   border-style: solid;
   border-width: 2px;
 }
@@ -117,7 +117,7 @@ form {
 
 form input {
   border: none;
-  background-color: #11131C;
+  background-color: #1A1B23;
   color: #aaa;
   font-size: 30px;
   font-weight: 500;
@@ -208,7 +208,7 @@ form input:focus {
   height: 2px;
   width: 100%;
   border-radius: 30px;
-  background: #11131C;
+  background: #1A1B23;
 }
 
 .navbar-container .hamburger-lines .line1 {
